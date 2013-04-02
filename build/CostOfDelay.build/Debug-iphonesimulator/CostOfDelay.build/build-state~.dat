@@ -1,0 +1,242 @@
+TCostOfDelay
+v7
+r0
+t354701495.850995
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist" CostOfDelay-Info.plist
+cCompileXIB "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib"
+cProcessPCH /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch CostOfDelay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.h
+c000000004F74137F0000000000000202
+t1333007231
+s514
+i<Foundation/Foundation.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m
+c000000004F7419360000000000000647
+t1333008694
+s1607
+i"Controller.h"
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.h
+c000000004F740DB70000000000000155
+t1333005751
+s341
+i<UIKit/UIKit.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m
+c000000004F740DB700000000000006C1
+t1333005751
+s1729
+i"CostOfDelayAppDelegate.h"
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch
+c000000004F740DB700000000000000BF
+t1333005751
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib
+c000000004F7412FB000000000000BCDC
+t1333007099
+s48348
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o
+t2
+s0
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelay.LinkFileList
+c000000004F74193600000000000001BC
+t1333008694
+s444
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o
+t1333008695
+s49120
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o
+t1333008695
+s6332
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app
+t2
+s0
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM
+t2
+s0
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay
+t2
+s0
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist
+t1333008694
+s814
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/MainWindow.nib
+t1333008694
+s7794
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/PkgInfo
+t1333008694
+s8
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/main.m
+c000000004F740DB7000000000000016F
+t1333005751
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch
+t1333008695
+s15814064
+
+NCostOfDelay-Info.plist
+c000000004F740DB700000000000004D6
+t1333005751
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354701494#354701494#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701495.808740
+e354701495.850834
+r0
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m: In function '-[Controller calculateCostOfDelay:]':
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: error: conflicting types for 'monthsText'
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:27: error: previous definition of 'monthsText' was here
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: warning: invalid receiver type 'float'
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: error: cannot convert to a pointer type
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:33: warning: comparison between pointer and integer
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: 'amountNowValue' undeclared (first use in this function)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: (Each undeclared identifier is reported only once
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: for each function it appears in.)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:42: error: 'amountOneYearValue' undeclared (first use in this function)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:43: error: 'amountOneYearAddValue' undeclared (first use in this function)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:44: error: 'amountFiveYearsValue' undeclared (first use in this function)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:45: error: 'amountFiveYearsAddValues' undeclared (first use in this function)
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: error: expected expression before 'end'
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:55:1: error: unterminated comment
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: error: expected declaration or statement at end of input
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:30: warning: unused variable 'yearsValue'
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:29: warning: unused variable 'amountValue'
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m: At top level:
+o/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: warning: '@end' missing in implementation context
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:51:non-relocatable subtraction expression, "L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:51:symbol: "L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@77"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701495#354701495#0(3103"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m: In function '-[Controller calculateCostOfDelay:]':/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: error: conflicting types for 'monthsText'/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:27: error: previous definition of 'monthsText' was here/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: warning: invalid receiver type 'float'/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:31: error: cannot convert to a pointer type/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:33: warning: comparison between pointer and integer/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: 'amountNowValue' undeclared (first use in this function)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: (Each undeclared identifier is reported only once/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:41: error: for each function it appears in.)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:42: error: 'amountOneYearValue' undeclared (first use in this function)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:43: error: 'amountOneYearAddValue' undeclared (first use in this function)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:44: error: 'amountFiveYearsValue' undeclared (first use in this function)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:45: error: 'amountFiveYearsAddValues' undeclared (first use in this function)/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: error: expected expression before 'end'/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:55:1: error: unterminated comment/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: error: expected declaration or statement at end of input/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:30: warning: unused variable 'yearsValue'/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:29: warning: unused variable 'amountValue'/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m: At top level:/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m:53: warning: '@end' missing in implementation context{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:51:non-relocatable subtraction expression, "L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr" minus "L00000000001$pb"{standard input}:51:symbol: "L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_Controller.amount$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_017(4@34"Conflicting types for 'monthsText'354701495#122#116#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#31#0#31#0#25"conflicting types for '*'0(13@44"Previous definition of 'monthsText' was here354701495#238#126#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#27#0#27#0#35"previous definition of '*' was here0(22@29"Invalid receiver type 'float'354701495#364#113#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#31#0#31#0#0"0(4@32"Cannot convert to a pointer type354701495#477#114#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#31#0#31#0#0"0(22@38"Comparison between pointer and integer354701495#591#122#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#33#0#33#0#0"0(4@56"'amountNowValue' undeclared (first use in this function)354701495#713#138#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#41#0#41#0#43"'*' undeclared (first use in this function)0(4@60"'amountOneYearValue' undeclared (first use in this function)354701495#1097#142#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#42#0#42#0#43"'*' undeclared (first use in this function)0(4@63"'amountOneYearAddValue' undeclared (first use in this function)354701495#1239#145#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#43#0#43#0#43"'*' undeclared (first use in this function)0(4@62"'amountFiveYearsValue' undeclared (first use in this function)354701495#1384#144#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#44#0#44#0#43"'*' undeclared (first use in this function)0(4@66"'amountFiveYearsAddValues' undeclared (first use in this function)354701495#1528#148#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#45#0#45#0#43"'*' undeclared (first use in this function)0(4@32"Expected expression before 'end'354701495#1676#114#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#53#0#53#0#19"expected * before *0(4@20"Unterminated comment354701495#1790#104#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#55#0#55#0#0"0(4@49"Expected declaration or statement at end of input354701495#1894#131#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#53#0#53#0#49"expected declaration or statement at end of input0(22@28"Unused variable 'yearsValue'354701495#2025#112#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#30#0#30#0#19"unused variable '*'0(22@29"Unused variable 'amountValue'354701495#2137#113#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#29#0#29#0#19"unused variable '*'0(23@13"At top level:354701495#2250#85#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#0#0#0#0#0"0(22@40"'@end' missing in implementation context354701495#2335#124#0(6@69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354701494#53#0#53#0#40"'@end' missing in implementation context0(0#0#69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m8613260960#2146"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o"1#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701495.732167
+e354701495.811189
+r1
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m354701495#354701495#0(0"0(0#0#81"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m8633131584#2170"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o"0#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701495.730977
+e354701495.808644
+r1
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/main.m354701495#354701495#0(0"0(0#0#55"/Users/robrandall/Documents/App Devs/CostOfDelay/main.m8634612192#2126"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib"
+s354701494.432901
+e354701494.929460
+r1
+xCompileXIB
+x/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354701494#354701494#0(0"0(0#0#63"/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib8633074784#610"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/MainWindow.nib" "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay"
+r0
+
+CLd "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist" CostOfDelay-Info.plist
+s354701494.429532
+e354701494.432837
+r1
+xProcessInfoPlistFile
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist
+xCostOfDelay-Info.plist
+lSLF07#2@30"Process CostOfDelay-Info.plist354701494#354701494#0(0"0(0#0#71"/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay-Info.plist3420872510147945984#527"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CostOfDelay-Info.plist -genpkginfo "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist"0#
+
+CProcessPCH /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch CostOfDelay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701494.929579
+e354701495.730865
+r1
+xProcessPCH
+x/var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch
+xCostOfDelay_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile CostOfDelay_Prefix.pch354701494#354701495#0(0"0(0#0#71"/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch8628566976#2002"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -c "/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch" -o /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch0#
+
+CTouch "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"
+r0
+

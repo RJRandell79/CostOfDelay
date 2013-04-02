@@ -1,0 +1,318 @@
+TCostOfDelay
+v7
+r0
+t355061659.875633
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist" CostOfDelay-Info.plist
+cCompileXIB "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/CostOfDelay.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/CostOfDelay.app/default.png default.png
+cCpResource build/Debug-iphonesimulator/CostOfDelay.app/logo.png logo.png
+cCpResource build/Debug-iphonesimulator/CostOfDelay.app/logo2.png logo2.png
+cProcessPCH /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch CostOfDelay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay" normal i386
+cGenerateDSYMFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay"
+cTouch "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.h
+c000000004F75A3E90000000000000318
+t1333109737
+s792
+i<Foundation/Foundation.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m
+c000000004F75B278000000000000172E
+t1333113464
+s5934
+i"Controller.h"
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.h
+c000000004F740DB70000000000000155
+t1333005751
+s341
+i<UIKit/UIKit.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m
+c000000004F75BD6D00000000000006CD
+t1333116269
+s1741
+i"CostOfDelayAppDelegate.h"
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch
+c000000004F740DB700000000000000BF
+t1333005751
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib
+c000000004F75C2F2000000000001A4C6
+t1333117682
+s107718
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o
+t1333113464
+s53124
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelay.LinkFileList
+c000000004F74193600000000000001BC
+t1333008694
+s444
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o
+t1333116272
+s49160
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o
+t1333008695
+s6332
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app
+t1333117685
+s340
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM
+t1333116272
+s102
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay
+t1333116272
+s21936
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist
+t1333008694
+s814
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/MainWindow.nib
+t1333117685
+s14779
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/PkgInfo
+t1333008694
+s8
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/default.png
+t1333116270
+s23013
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/icon.png
+t1333116270
+s3483
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/logo.png
+t1333116486
+s19037
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/logo2.png
+t1333116486
+s12565
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/default.png
+c000000004F75BD4500000000000059E5
+t1333116229
+s23013
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/icon.png
+c000000004F75BC160000000000000D9B
+t1333115926
+s3483
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/logo.png
+c000000004F75BDB10000000000004A5D
+t1333116337
+s19037
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/logo2.png
+c000000004F75BE080000000000003115
+t1333116424
+s12565
+
+N/Users/robrandall/Documents/App Devs/CostOfDelay/main.m
+c000000004F740DB7000000000000016F
+t1333005751
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch
+t1333008695
+s15814064
+
+NCostOfDelay-Info.plist
+c000000004F740DB700000000000004D6
+t1333005751
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355061659#355061659#0(0"0(0#1#0"8617021184#0"0#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354806264.839890
+e354806264.989342
+r1
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m354806264#354806264#0(0"0(0#0#69"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m8602282752#2146"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/Controller.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354809072.437634
+e354809072.550739
+r1
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m354809072#354809072#0(0"0(0#0#81"/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m8627608064#2170"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/Classes/CostOfDelayAppDelegate.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelayAppDelegate.o"0#
+
+CCompileC build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701495.730977
+e354701495.808644
+r1
+xCompileC
+xbuild/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o
+x/Users/robrandall/Documents/App Devs/CostOfDelay/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robrandall/Documents/App Devs/CostOfDelay/main.m354701495#354701495#0(0"0(0#0#55"/Users/robrandall/Documents/App Devs/CostOfDelay/main.m8634612192#2126"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -include /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/main.m" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib"
+s354810485.088252
+e354810485.715983
+r1
+xCompileXIB
+x/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354810485#354810485#0(0"0(0#0#63"/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib8617020800#610"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/MainWindow.nib" "/Users/robrandall/Documents/App Devs/CostOfDelay/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CostOfDelay.app/default.png default.png
+s354809070.914680
+e354809070.982067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CostOfDelay.app/default.png
+xdefault.png
+lSLF07#2@16"Copy default.png354809070#354809070#0(0"0(0#0#60"/Users/robrandall/Documents/App Devs/CostOfDelay/default.png8630285376#509"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/robrandall/Documents/App Devs/CostOfDelay/default.png" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"0#
+
+CCpResource build/Debug-iphonesimulator/CostOfDelay.app/icon.png icon.png
+s354809070.914189
+e354809070.981926
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CostOfDelay.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png354809070#354809070#0(0"0(0#0#57"/Users/robrandall/Documents/App Devs/CostOfDelay/icon.png8630342944#506"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/robrandall/Documents/App Devs/CostOfDelay/icon.png" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"0#
+
+CCpResource build/Debug-iphonesimulator/CostOfDelay.app/logo.png logo.png
+s354809286.328978
+e354809286.351134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CostOfDelay.app/logo.png
+xlogo.png
+lSLF07#2@13"Copy logo.png354809286#354809286#0(0"0(0#0#57"/Users/robrandall/Documents/App Devs/CostOfDelay/logo.png8612961120#506"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/robrandall/Documents/App Devs/CostOfDelay/logo.png" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"0#
+
+CCpResource build/Debug-iphonesimulator/CostOfDelay.app/logo2.png logo2.png
+s354809286.329515
+e354809286.353743
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CostOfDelay.app/logo2.png
+xlogo2.png
+lSLF07#2@14"Copy logo2.png354809286#354809286#0(0"0(0#0#58"/Users/robrandall/Documents/App Devs/CostOfDelay/logo2.png8614247136#507"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/robrandall/Documents/App Devs/CostOfDelay/logo2.png" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"0#
+
+CGenerateDSYMFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM" "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay"
+s354809072.755606
+e354809072.787220
+r1
+xGenerateDSYMFile
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/CostOfDelay.app.dSYM build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay354809072#354809072#0(0"0(0#0#104"/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay8631400992#431"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay" -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app.dSYM"0#
+
+CLd "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay" normal i386
+s354809072.550823
+e354809072.755519
+r1
+xLd
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay
+xnormal
+xi386
+lSLF07#2@109"Link /Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay354809072#354809072#0(0"0(0#0#0"8634782976#1000"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" -filelist "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/Objects-normal/i386/CostOfDelay.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/CostOfDelay"0#
+
+CProcessInfoPlistFile "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist" CostOfDelay-Info.plist
+s354701494.429532
+e354701494.432837
+r1
+xProcessInfoPlistFile
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist
+xCostOfDelay-Info.plist
+lSLF07#2@30"Process CostOfDelay-Info.plist354701494#354701494#0(0"0(0#0#71"/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay-Info.plist3420872510147945984#527"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CostOfDelay-Info.plist -genpkginfo "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app/Info.plist"0#
+
+CProcessPCH /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch CostOfDelay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354701494.929579
+e354701495.730865
+r1
+xProcessPCH
+x/var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch
+xCostOfDelay_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile CostOfDelay_Prefix.pch354701494#354701495#0(0"0(0#0#71"/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch8628566976#2002"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-generated-files.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-own-target-headers.hmap" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-all-target-headers.hmap" -iquote "/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/CostOfDelay-project-headers.hmap" "-F/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/include" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources/i386" "-I/Users/robrandall/Documents/App Devs/CostOfDelay/build/CostOfDelay.build/Debug-iphonesimulator/CostOfDelay.build/DerivedSources" -c "/Users/robrandall/Documents/App Devs/CostOfDelay/CostOfDelay_Prefix.pch" -o /var/folders/vI/vIlXvH-yE4KqFxv037p6CU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CostOfDelay_Prefix-gzadspcywrsqdbaypqoodoltkiyo/CostOfDelay_Prefix.pch.gch0#
+
+CTouch "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"
+s354810485.716524
+e354810485.719056
+r1
+xTouch
+x/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app
+lSLF07#2@98"Touch /Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app354810485#354810485#0(0"0(0#0#0"8612690016#306"    cd "/Users/robrandall/Documents/App Devs/CostOfDelay"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/robrandall/Documents/App Devs/CostOfDelay/build/Debug-iphonesimulator/CostOfDelay.app"0#
+
